@@ -20,11 +20,4 @@
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>Lab8</name>
-			<type>2</type>
-			<location>C:/Users/aleja/Downloads/Lab8</location>
-		</link>
-	</linkedResources>
 </projectDescription>
